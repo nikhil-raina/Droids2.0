@@ -50,7 +50,6 @@ def makeDiff(labelList, label_dictionary):
         count += 1
     return diffList
 
-
 def classification(X, Y, diff):
     '''
     Function responsible of making the entire set of models. Takes in 2 parameters:
